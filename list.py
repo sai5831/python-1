@@ -1,0 +1,9 @@
+enames=["anudeep","saiganesh","naveen"]
+eids=[101,102,103]
+numbers=[10,20,30,40,50]
+b=[10,20,45,50,60]
+#read
+print(enames)
+print(eids)
+print(numbers)
+print(b)    

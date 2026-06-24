@@ -1,0 +1,15 @@
+#create 
+eid=101
+ename="saiganesh"
+esal=5000.50
+avil=True
+c=10+20j
+eids=[101,102,103,104]
+uids=(101,102.103,104)
+#read
+print(a)
+print(b)
+print(c)
+print(d)
+print(c)
+#
